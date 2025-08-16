@@ -2,55 +2,67 @@
 [![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/agrocrypto-core)](https://opensource.org/licenses)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Status](https://img.shields.io/badge/project-Verified%20Blockchain%20Infra-orange)
-![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
-![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
-![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
+![AWS](https://img.shields.io/badge/deployed-AWS-blue?logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/deployed-Cloudflare-orange?logo=cloudflare)
+![OpenAI](https://img.shields.io/badge/deployed-OpenAI-black?logo=openai)
 
-
-# ESG-Manifest
 # 🌿 AgroCrypto ESG Manifest
 
 ## Purpose
-AgroCrypto is committed to aligning blockchain technology with global environmental and social responsibility goals. This manifest outlines our principles, certifications, and methodologies for sustainability and governance.
+AgroCrypto é a infraestrutura de blockchain institucional voltada para **ESG, governança e lastro real**.  
+Este manifesto formaliza os princípios, padrões e mecanismos de validação que ancoram ativos sustentáveis ao blockchain, sob o **AgroCrypto Trust Framework (ATF-AI)**.
 
 ---
 
 ## ♻️ Environmental Commitment
-- Verified Carbon Credits from Brazilian origin
-- Support for ISO 14064 and Greenhouse Gas Protocols
-- Energy-efficient infrastructure powered by AI optimization
+- **Créditos de Carbono de Origem Brasileira**, auditados via ATF.  
+- Suporte integral a **ISO 14064** e **Greenhouse Gas Protocols (GHG)**.  
+- Integração com **hidrelétricas (Itaipu, Furnas)** como fonte de energia limpa e diferencial competitivo.  
+- **Infraestrutura AI-optimized** para eficiência energética e redução de pegada digital.
 
 ---
 
 ## 📊 Governance & Transparency
-- Immutable audit trail of all tokenized ESG assets
-- Regulatory alignment with EU Taxonomy and SEC ESG Reporting Standards
-- Permissioned access for institutional verification
+- **ATF como AI-Governed DAO** → governança institucional validada por múltiplos modelos AI (GPT, LLaMA, Qwen, Gemma, ggml).  
+- **Audit trail imutável** de todos os ativos ESG tokenizados.  
+- Alinhamento com **EU Taxonomy**, **SEC Climate Disclosure Rules (2024)** e relatórios **CDSB/ISSB**.  
+- **Permissioned access** para validação por instituições financeiras, reguladores e auditores independentes.
 
 ---
 
 ## 🔐 Data Integrity
-- AI-enhanced validation pipeline
-- Oracle-connected ESG scoring
-- Hash-based proof of origin and timestamped records
+- **Validação multi-AI** em pipeline auditável, com fallback humano.  
+- **Oráculos conectados a scoring ESG** e fontes de mercado.  
+- Provas de origem baseadas em **hash + timestamp** registrados na AgroCrypto Chain.  
+- **EIP-1898 compliance** para chamadas retroativas e auditoria institucional.
 
 ---
 
 ## 🌐 Integration Scope
-- AgroCrypto ESG tokens can be used as proof-of-sustainability collateral
-- Compatible with carbon markets, green bonds, and institutional sustainability reports
+- **Tokens ESG AgroCrypto** podem ser usados como colateral em **green bonds, relatórios institucionais, balanços de carbono e compliance bancário**.  
+- Compatível com **Euroclear, SWIFT, Mastercard, Circle (CCTP)** para liquidação financeira.  
+- **Interoperabilidade multi-chain**: Ethereum, Tron, BSC, Avalanche, Solana, Bitcoin.  
+- Suporte a **NFTs colateralizados** como instrumentos de liquidez.
 
 ---
 
 ## 🔗 External Standards Referenced
-- ISO 14064
-- GHG Protocol
-- EU Taxonomy Regulation
-- Climate Disclosure Standards Board (CDSB)
+- ISO 14064  
+- Greenhouse Gas Protocol (GHG)  
+- EU Taxonomy Regulation  
+- SEC Climate Disclosure Rules (2024)  
+- Climate Disclosure Standards Board (CDSB) / ISSB  
+- EIP-1898 (Ethereum JSON-RPC Audit Standard)
 
 ---
 
-> AgroCrypto does not merely track sustainability — it immutably anchors it to the blockchain.
+## 🤝 Contribuição
+Pull requests são bem-vindos.  
+Para mudanças maiores, abra uma issue para discussão.  
+Repositório oficial: [crates.io/crates/agrocrypto-core](https://crates.io/crates/agrocrypto-core)
 
-"Rooted & Resilient. Cultive algo. 🌽"
-Contribuição adicional para teste de badge.
+---
+
+> AgroCrypto não apenas rastreia sustentabilidade — **ancora imutavelmente ativos ESG sob governança validada por AI**.  
+>
+> **Rooted & Resilient. Cultive confiança. 🌽**
