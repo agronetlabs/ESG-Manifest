@@ -2,7 +2,6 @@
 [![Provenance Traceable](https://img.shields.io/badge/PROVENANCE-SIGNED-0f9d58?style=for-the-badge&logo=oci)](https://github.com/agronetlabs/AgroPay/blob/main/docs/agropay-core-attestation.md)
 [![Pull Shark](https://img.shields.io/badge/PULL--SHARK-ACTIVE-0066ff?style=for-the-badge&logo=github)](https://github.com/agronetlabs/AgroPay)
 
-
 [![Crates.io](https://img.shields.io/crates/v/agrocrypto-core.svg)](https://crates.io/crates/agrocrypto-core)
 [![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/agrocrypto-core)](https://opensource.org/licenses)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
@@ -11,7 +10,7 @@
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
-
+---
 # ESG-Manifest
 # 🌿 AgroCrypto ESG Manifest
 
