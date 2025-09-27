@@ -12,8 +12,7 @@
 
 ---
 
-# ESG-Manifest
-# 🌿 AgroCrypto ESG Manifest
+## ESG-Manifest 🌿AgroCrypto ESG Manifest
 
 ## Purpose
 AgroCrypto is committed to aligning blockchain technology with global environmental and social responsibility goals. This manifest outlines our principles, certifications, and methodologies for sustainability and governance.
