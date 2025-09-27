@@ -11,6 +11,7 @@
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
 ---
+
 # ESG-Manifest
 # 🌿 AgroCrypto ESG Manifest
 
