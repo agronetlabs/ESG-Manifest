@@ -54,7 +54,7 @@ AgroCrypto is committed to aligning blockchain technology with global environmen
 
 ---
 
-> AgroCrypto does not merely track sustainability — it immutably anchors it to the blockchain.
+> AgroCrypto/AgroNet does not merely track sustainability — it immutably anchors it to the blockchain.
 
 "Rooted & Resilient. Cultive algo. 🌽"
 Contribuição adicional para teste de badge.
